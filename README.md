@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/article-preview-w4kkObniu)
 - Live Site URL: [Live site URL here](https://article-preview-component-olppaemi.vercel.app/)
 
 ## My process
