@@ -1,6 +1,6 @@
-const arrow = document.querySelector('.arrow');
-const share = document.querySelector('.share');
+const card_share = document.querySelector('.card__share');
+const btn = document.querySelector('.about__button');
 
-arrow.addEventListener('click', () => {
-    share.classList.toggle("show");
-})
+btn.addEventListener('click', () => {
+  card_share.classList.toggle('show');
+});
